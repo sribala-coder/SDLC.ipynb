@@ -1,4 +1,3 @@
-
 import gradio as gr
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
